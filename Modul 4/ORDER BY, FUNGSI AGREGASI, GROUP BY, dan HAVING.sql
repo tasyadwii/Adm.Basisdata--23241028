@@ -1,5 +1,5 @@
--- NAMA : YOGI SAPUTRA
--- NIM : 23241007
+-- NAMA : Tasya Dwi Rahma Dani
+-- NIM : 23241028
 -- Kelas : A
 -- Modul : modul 4 : ORDER BY, FUNGSI AGREGASI, GROUP BY, dan HAVING
 
